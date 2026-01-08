@@ -30,15 +30,16 @@ Sales Representatives show the highest role-based attrition
 Low job satisfaction strongly correlates with employee exits
 
 ## Project Structure
- 
-<img width="570" height="601" alt="Screenshot 2026-01-08 152600" src="https://github.com/user-attachments/assets/7aeec2fe-3106-419e-8d88-c6f635e3cbbb" />
+
+ <img width="570" height="601" alt="Screenshot 2026-01-08 152600" src="https://github.com/user-attachments/assets/effcd2ed-705e-4172-a367-de17d5f172a6" />
 
 
 ## Dashboard Preview
 
 Power BI dashboard showing overall attrition KPI and breakdowns by department, experience, job role, and overtime.
 
-<img width="1307" height="742" alt="Screenshot 2026-01-08 153943" src="https://github.com/user-attachments/assets/ee9bb72b-6c8b-4f77-8263-243822626503" />
+<img width="1307" height="742" alt="Screenshot 2026-01-08 153943" src="https://github.com/user-attachments/assets/d9d57c59-204f-419c-bb20-80bc5a7a6bf0" />
+
 
 ## How to Run
 
